@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Law Levisay</h1>
-<h3 align="center">A passionate frontend developer and web designer from India</h3>
+<h3 align="center">A passionate freelance frontend developer and web designer from India</h3>
 
 ![FM86](https://github.com/orderlaw/orderlaw/assets/102177927/d681b741-fbff-4852-9294-7722d0a6df51)
 
