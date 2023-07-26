@@ -5,6 +5,9 @@
 ![FM86](https://github.com/orderlaw/orderlaw/assets/102177927/d681b741-fbff-4852-9294-7722d0a6df51)
 </p>
 
+<p align="center">
+  <img src="[demo.gif](https://github.com/orderlaw/orderlaw/assets/102177927/d681b741-fbff-4852-9294-7722d0a6df51)" alt="animated" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orderlaw&label=Profile%20views&color=0e75b6&style=flat" alt="orderlaw" /> </p>
 
