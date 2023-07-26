@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Law Levisay</h1>
 <h3 align="center">A passionate frontend developer and web designer from India</h3>
 
-<iframe src="https://giphy.com/embed/AhOW61Pxt49kQ" width="480" height="232" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/q-code-geass-AhOW61Pxt49kQ">via GIPHY</a></p>
+![Uploading FM86.gif…]()
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orderlaw&label=Profile%20views&color=0e75b6&style=flat" alt="orderlaw" /> </p>
 
