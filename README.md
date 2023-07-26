@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Law Levisay</h1>
 <h3 align="center">A passionate frontend developer and web designer from India</h3>
 
+<p align="center">
 ![FM86](https://github.com/orderlaw/orderlaw/assets/102177927/d681b741-fbff-4852-9294-7722d0a6df51)
-
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orderlaw&label=Profile%20views&color=0e75b6&style=flat" alt="orderlaw" /> </p>
