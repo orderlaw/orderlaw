@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Law Levisay</h1>
 <h3 align="center">A passionate frontend developer and web designer from India</h3>
 
+<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/6f90f5c9-498d-43c7-a8d5-d3afc1a65070/kAE4bKpv4t.json” background=“#FFFFFF” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orderlaw&label=Profile%20views&color=0e75b6&style=flat" alt="orderlaw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orderlaw" alt="orderlaw" /></a> </p>
