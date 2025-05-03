@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Law Levisay</h1>
-<h3 align="center">A passionate freelance frontend developer and web designer from India</h3>
+<h1 align="center">Hi there 👋, I'm Law Levisay!</h1>
+<h3 align="center">A Passionate Freelance Frontend Developer and Web Designer</h3>
 
 ![FM86](https://github.com/orderlaw/orderlaw/assets/102177927/d681b741-fbff-4852-9294-7722d0a6df51)
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/lawlevisay" target="blank"><img src="https://img.shields.io/twitter/follow/lawlevisay?logo=twitter&style=for-the-badge" alt="lawlevisay" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on as a Freelancer!
 
-- 👨‍💻 All of my projects are available at [https://lawlevisay.tech/](https://lawlevisay.tech/)
-
-- ⚡ Fun fact **With just a few lines of code, you can create something amazing out of nothing!**
+- 👨‍💻 All of my projects are available at [Portfolio Under Maintainance]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
